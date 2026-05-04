@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hîrøññø Røy</h1>
 <h3 align="center">Digital Marketer & Facebook Community Expert from Bangladesh 🇧🇩</h3>
-
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8ABC,100:00C9A7&height=200&section=header&text=Hîrøññø%20Røy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+</p>
   <img src="https://i.ibb.co/8XnQZ3g/dog-banner.png" width="600" alt="banner"/>
 </p>
-
 - 🔭 I’m currently working on **Westminster Dog Show Fans NYC**
 - 🌱 I’m learning **GitHub, React & Digital Marketing**
 - 👯 I’m looking to collaborate on **Pet Contest & Dog Community Projects**
